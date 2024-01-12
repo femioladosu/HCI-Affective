@@ -1,0 +1,20 @@
+
+Windows Execution
+Install node.js
+In CMD: run "npm install http-server -g"
+In CMD: run "http-server" (in the folder application is installed on)
+In Web Browser: "localhost:8080"
+Enable camera
+
+Unix/Linux
+
+In terminal intsall node.js
+run npm install http-server -g
+export PATH=/usr/local/lib/newjs/nodejs/node-v18.16.0-linux-x64/bin:$PATH
+. ~/.profile
+node -v
+http-server  (in the folder application is installed on)
+Web browser: 127.0.0.1:8080
+Enabe camera
+
+Might need to clear cache
